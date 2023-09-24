@@ -1,5 +1,5 @@
 h1 align="center">Hi 👋, I'm Shivam vijay singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>https://www.alamy.com/sketch-of-indians-powerful-god-lord-shiva-with-text-of-har-har-mahadev-on-a-yellow-bac-image436226578.html
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thakur75&label=Profile%20views&color=0e75b6&style=flat" alt="thakur75" /> </p>
 
